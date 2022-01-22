@@ -1,6 +1,7 @@
-import ipinfo
-import pprint
-from colorama import Fore, Back, Style
-from os import system, name
-import os
-import webbrowser
+
+pip install ipinfo
+pip install pprint
+pip install colorama
+pip install os
+pip install webbrowser
+
